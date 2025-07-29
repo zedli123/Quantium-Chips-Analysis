@@ -28,4 +28,10 @@ There are two datasets, **Transaction Data** and **Purchase Behaviour** Data for
 
 - **Purchase Behaviour Data** contains **72637** rows
 
+|Column             | Desctiption                               |
+|-------------------|-------------------------------------------|
+|`LYLTY_CARD_NBR`   | Unique Loyalty Card Identifier **Integer**|
+|`LIFESTAGE`        | The Lifestage of Customers **STRING**     |
+|`PREMIUM_CUSTOMER` | The Types of Customers  **STRING**        |
+
 
