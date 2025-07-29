@@ -12,4 +12,4 @@ By turning raw data into actionable insights, this analysis helps the client **u
 
 ## 2. Data Overview & Preprocessing
 ### 2.1 Data Summary
-
+There are two datasets, Transaction Data and Purchase Behaviour Data for this project. The **Transaction Data** contains **244836** rows while the **Purchase Behaviour Data** contains **72637** rows.
