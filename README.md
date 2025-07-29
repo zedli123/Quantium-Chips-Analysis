@@ -13,7 +13,7 @@ By turning raw data into actionable insights, this analysis helps the client **u
 ## 2. Data Overview & Preprocessing
 ### 2.1 Data Summary
 There are two datasets, **Transaction Data** and **Purchase Behaviour** Data for this project. 
-- **Transaction Data** contains **244836** rows
+- **Transaction Data** contains **264258** rows
 
 |Column             | Desctiption                               |
 |-------------------|-------------------------------------------|
@@ -33,5 +33,8 @@ There are two datasets, **Transaction Data** and **Purchase Behaviour** Data for
 |`LYLTY_CARD_NBR`   | Unique Loyalty Card Identifier **Integer**|
 |`LIFESTAGE`        | The Lifestage of Customers **STRING**     |
 |`PREMIUM_CUSTOMER` | The Types of Customers  **STRING**        |
+
+### 2.2 Outlier Removing
+
 
 
