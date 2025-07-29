@@ -12,6 +12,20 @@ By turning raw data into actionable insights, this analysis helps the client **u
 
 ## 2. Data Overview & Preprocessing
 ### 2.1 Data Summary
-There are two datasets, Transaction Data and Purchase Behaviour Data for this project. 
-- **Transaction Data** contains **244836** rows 
-- **Purchase Behaviour Data** contains **72637** rows.
+There are two datasets, **Transaction Data** and **Purchase Behaviour** Data for this project. 
+- **Transaction Data** contains **244836** rows
+
+|Column             | Desctiption                               |
+|-------------------|-------------------------------------------|
+|`DATE`             | Transaction Date **Date**                 |
+|`STORE_NBR`        | Unique Store Identifier **Integer**       |
+|`LYLTY_CARD_NBR`   | Unique Loyalty Card Identifier **Integer**|
+|`TXN_ID`           | Transaction Identifier **Integer**        |
+|`PROD_NBR`         | Unique Product Identifier **Integer**     |
+|`PROD_NAME`        | Name of Product **String**                |
+|`PROD_QTY`         | Product Quantity **Integer**              |
+|`TOT_SALES`        | Total Sales **Float**                     |
+
+- **Purchase Behaviour Data** contains **72637** rows
+
+
