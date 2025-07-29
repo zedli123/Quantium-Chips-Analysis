@@ -8,5 +8,8 @@ This project bridges that gap by:
 - 🏷️ **Segmenting customers with RFM analysis** (Recency, Frequency, Monetary) to identify high-value customer groups.  
 - 🧪 **Designing an A/B testing plan** to select the best trial and control stores for a new store layout experiment.  
 
-By turning raw data into actionable insights, this analysis helps the client **understand customers better, personalize marketing efforts, and boost sales and revenue in the chips category**.  
+By turning raw data into actionable insights, this analysis helps the client **understand customers better, personalize marketing efforts, and boost sales and revenue in the chips category**. 
+
+## 2. Data Overview & Preprocessing
+### 2.1 Data Summary
 
