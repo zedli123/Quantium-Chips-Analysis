@@ -34,7 +34,8 @@ There are two datasets, **Transaction Data** and **Purchase Behaviour** Data for
 |`LIFESTAGE`        | The Lifestage of Customers **STRING**     |
 |`PREMIUM_CUSTOMER` | The Types of Customers  **STRING**        |
 
-### 2.2 Outlier Removing
+### 2.2 Outlier Removal
+To mitigate the impact of extreme values, we applied the interquartile Range (IQR) method to detect and remove extreme outliers from our dataset. 
 
 
 
