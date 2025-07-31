@@ -37,8 +37,10 @@ There are two datasets, **Transaction Data** and **Purchase Behaviour** Data for
 ### 2.2 Outlier Removal
 To mitigate the impact of extreme values, we applied the interquartile Range (IQR) method to detect and remove extreme outliers from our dataset. 
 
-<img width="250" alt="image" src="https://github.com/zedli123/Quantium-Chips-Analysis/tree/main/Quantium/BeforeOutlier.png">
-<img width="250" alt="image" src="https://github.com/zedli123/Quantium-Chips-Analysis/tree/main/Quantium/AfterOutlier.png">
+<p align="center">
+  <img src="https://github.com/zedli123/Quantium-Chips-Analysis/blob/main/Quantium/BeforeOutlier.png?raw=true" width="400" />
+  <img src="https://github.com/zedli123/Quantium-Chips-Analysis/blob/main/Quantium/AfterOutlier.png?raw=true" width="400" />
+</p>
 
 
 
