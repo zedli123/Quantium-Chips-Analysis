@@ -15,7 +15,7 @@ By turning raw data into actionable insights, this analysis helps the client **u
 There are two datasets, **Transaction Data** and **Purchase Behaviour** Data for this project. 
 - **Transaction Data** contains **264258** rows
 
-|Column             | Desctiption                               |
+|Column             | Description                               |
 |-------------------|-------------------------------------------|
 |`DATE`             | Transaction Date **Date**                 |
 |`STORE_NBR`        | Unique Store Identifier **Integer**       |
@@ -28,25 +28,26 @@ There are two datasets, **Transaction Data** and **Purchase Behaviour** Data for
 
 - **Purchase Behaviour Data** contains **72637** rows
 
-|Column             | Desctiption                               |
+|Column             | Description                               |
 |-------------------|-------------------------------------------|
 |`LYLTY_CARD_NBR`   | Unique Loyalty Card Identifier **Integer**|
 |`LIFESTAGE`        | The Lifestage of Customers **STRING**     |
 |`PREMIUM_CUSTOMER` | The Types of Customers  **STRING**        |
 
 ### 2.2 Outlier Removal
-To mitigate the impact of extreme values, we applied the **interquartile Range (IQR) method** to detect and remove extreme outliers from our dataset. 
+To mitigate the impact of extreme values, we applied the **Interquartile Range (IQR) method** to detect and remove extreme outliers from our dataset. 
 
 The left plot visualizes the distribution **before** outlier removal, where extreme values distort the scale and obscure underlying patterns. After applying the **Interquartile Range (IQR) method** to remove **578** extreme records, the distribution becomes more compact and symmetric.
 
 <p align="center">
-  <img src="https://github.com/zedli123/Quantium-Chips-Analysis/blob/main/Quantium/BeforeOutlier.png?raw=true" width="400" />
-  <img src="https://github.com/zedli123/Quantium-Chips-Analysis/blob/main/Quantium/AfterOutlier.png?raw=true" width="400" />
+  <img src="https://github.com/zedli123/Quantium-Chips-Analysis/blob/main/Quantium/BeforeOutlier.png?raw=true" width="400"/>
+  <img src="https://github.com/zedli123/Quantium-Chips-Analysis/blob/main/Quantium/AfterOutlier.png?raw=true" width="400"/>
 </p>
 
 > **Insight:** This preprocessing step ensures that our analysis and modeling are **less influenced by anomalies** and more accurately reflect the typical purchasing behavior of the majority of customers.
 
 ## 3. Exploartory Analysis
+### 3.1 Holiday Season Trend
 
 
 
