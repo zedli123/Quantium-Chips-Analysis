@@ -35,7 +35,11 @@ There are two datasets, **Transaction Data** and **Purchase Behaviour** Data for
 |`PREMIUM_CUSTOMER` | The Types of Customers  **STRING**        |
 
 ### 2.2 Outlier Removal
-To mitigate the impact of extreme values, we applied the interquartile Range (IQR) method to detect and remove extreme outliers from our dataset. 
+To mitigate the impact of extreme values, we applied the **interquartile Range (IQR) method** to detect and remove extreme outliers from our dataset. 
+
+The left plot visualizes the distribution **before** outlier removal, where extreme values distort the scale and obscure underlying patterns. After applying the **Interquartile Range (IQR) method** to remove outliers, the distribution becomes more compact and symmetric.
+
+This preprocessing step ensures that our analysis and modeling are **less influenced by anomalies** and more accurately reflect the typical purchasing behavior of the majority of customers.
 
 <p align="center">
   <img src="https://github.com/zedli123/Quantium-Chips-Analysis/blob/main/Quantium/BeforeOutlier.png?raw=true" width="400" />
