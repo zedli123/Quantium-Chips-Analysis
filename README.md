@@ -55,9 +55,9 @@ The right plot reveals a **noticeable spike in sales leading up to Christmas**, 
 I also examined the daily sales in **November** to explore whether there was a similar upward trend leading up to Thanksgiving. However, there appears to be **no noticeable spike in sales prior to the Thanksgiving like Christmas**.
 
 <p align="center">
-  <img src="https://github.com/zedli123/Quantium-Chips-Analysis/blob/main/Quantium/totalsalesbymonth.png?raw=true" width="300"/>
-  <img src="https://github.com/zedli123/Quantium-Chips-Analysis/blob/main/Quantium/totalsalesbymonthnov.png?raw=true" width="300"/>
-  <img src="https://github.com/zedli123/Quantium-Chips-Analysis/blob/main/Quantium/totalsalesbydaysindec.png?raw=true" width="300"/>
+  <img src="https://github.com/zedli123/Quantium-Chips-Analysis/blob/main/Quantium/totalsalesbymonth.png?raw=true" width="250"/>
+  <img src="https://github.com/zedli123/Quantium-Chips-Analysis/blob/main/Quantium/totalsalesbymonthnov.png?raw=true" width="250"/>
+  <img src="https://github.com/zedli123/Quantium-Chips-Analysis/blob/main/Quantium/totalsalesbydaysindec.png?raw=true" width="250"/>
 </p>
 
 > **Insight:** Sales significantly increased during the holiday season, peaking just before Christmas, highlighting a strong seasonal demand pattern.
