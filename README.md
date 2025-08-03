@@ -147,6 +147,21 @@ Each customer received a score from **1 to 5** for each factor, calculated using
   <img src="https://github.com/zedli123/Quantium-Chips-Analysis/blob/main/Quantium/customerdisbysegment.png?raw=true" width="600"/>
 </p>
 
+#### What the RFM Analysis Tell Us
+
+Looking at customer behavior through the lens of RFM scoring, we discovered that about **34%** of chip shoppers fall into the **"Champions"** or **"Loyal Customers"** categories. These are the folks who buy chips regularly, spend more than average, and have made purchases recently — likely our most satisfied and engaged customers.  
+In a category like chips, this group might include families who keep snacks stocked at home, or customers who love trying new flavors. To keep them coming back, we could:
+- **Offer fun rewards or loyalty perks (like “buy 5, get 1 free”)** 
+- **Give early access to limited-edition flavors** 
+- **Run refer-a-friend promos with small snack incentives**
+
+On the flip side, we found that around **32%** of customers are **"Hibernating"** or **"At Risk"** — meaning they haven’t bought in a while or aren’t shopping as frequently as they used to. That’s a pretty big group, and it’s important not to lose them.  
+These shoppers might be switching to other stores, reducing chip intake for health reasons, or just haven’t had a reason to come back. To re-engage them, we could:
+- **Send a friendly “we miss you” email with a personalized coupon**  
+- **Recommend newer (or healthier) products based on their past favorites**  
+- **Offer a time-limited deal to get their attention again**
+
+
 
 
 
