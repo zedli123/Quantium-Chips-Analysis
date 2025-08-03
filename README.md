@@ -76,6 +76,15 @@ I also examined the daily sales in **November** to explore whether there was a s
 </p>
 
 > **Insight:** Sales significantly increased during the holiday season, peaking just before Christmas, highlighting a strong seasonal demand pattern.
+>
+
+### 3.3 Comparison Across Brands and Pack Size
+
+<p align="center">
+  <img src="https://github.com/zedli123/Quantium-Chips-Analysis/blob/main/Quantium/totalsizebybrands.png?raw=true" width="250"/>
+  <img src="https://github.com/zedli123/Quantium-Chips-Analysis/blob/main/Quantium/totalsizebypacksize.png?raw=true" width="250"/>
+</p>
+
 
 
 
