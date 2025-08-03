@@ -80,9 +80,23 @@ I also examined the daily sales in **November** to explore whether there was a s
 
 ### 3.3 Comparison Across Brands and Pack Size
 
+#### Top Selling Brand
+Kettle is the top-performing chip brand, generating approximately **$390,239** in total revenue — nearly **double** that of the second-best-selling brand. It alone contributes to **21% of total chip sales**, making it the most critical brand to prioritize for restocking.
+
+The top four brands — **Kettle**, **Doritos**, **Smiths**, and **Pringles** — together account for just over **50% of total chip revenue**, highlighting their overall importance in driving sales.
+
+On the other hand, the **French Fries** and **Burger** brands each contribute less than **1%** of total revenue, indicating a relatively minor role in overall performance.
+
+#### Most Popular Pocket Size
+The most popular packet size is **175g**, contributing to **27%** of total chip revenue.  
+
+This is followed by the **150g** size, which accounts for **17%**, and the **134g** size, contributing **10%** of total revenue.
+
+These three sizes alone make up over half of the total chip sales, indicating a strong customer preference for medium-sized chip packets.
+
 <p align="center">
-  <img src="https://github.com/zedli123/Quantium-Chips-Analysis/blob/main/Quantium/totalsizebybrands.png?raw=true" width="250"/>
-  <img src="https://github.com/zedli123/Quantium-Chips-Analysis/blob/main/Quantium/totalsizebypacksize.png?raw=true" width="250"/>
+  <img src="https://github.com/zedli123/Quantium-Chips-Analysis/blob/main/Quantium/totalsizebybrands.png?raw=true" width="400"/>
+  <img src="https://github.com/zedli123/Quantium-Chips-Analysis/blob/main/Quantium/totalsizebypacksize.png?raw=true" width="400"/>
 </p>
 
 
