@@ -128,6 +128,21 @@ This table gives a quick summary of customer behavior by lifestage using three k
 
 ### 4.2 Customer Segmentation
 
+To better understand customer behavior, I assigned RFM scores based on how **recently** they purchased (Recency), **how often** they shop (Frequency), and **how much** they spend (Monetary).
+
+Each customer received a score from **1 to 5** for each factor, calculated using quantiles — with 5 being the most active or valuable. Based on their R and F scores, I then grouped customers into the following segments:
+
+| Segment            | Criteria                                      |
+|--------------------|-----------------------------------------------|
+| **Champions**      | Recency **≥ 4** and Frequency **≥ 4**         |
+| **New Customers**  | Recency **≥ 4** and Frequency **≤ 2**         |
+| **At Risk**        | Recency **≤ 2** and Frequency **≥ 4**         |
+| **Loyal Customers**| Frequency **≥ 4**                             |
+| **Hibernating**    | Recency **≤ 2** and Frequency **≤ 2**         |
+| **Other**          | Everyone else                                 |
+
+> This segmentation gives us a clearer picture of our most engaged customers, those worth re-engaging, and others who might need a little nudge.
+
 <p align="center">
   <img src="https://github.com/zedli123/Quantium-Chips-Analysis/blob/main/Quantium/customerdisbysegment.png?raw=true" width="600"/>
 </p>
