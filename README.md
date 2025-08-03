@@ -101,7 +101,11 @@ These three sizes alone make up over half of the total chip sales, indicating a 
 
 ## 4.Customer RFM Analysis
 
-This table summarizes average **Recency** (days since last transaction), **Frequency** (average number of transactions per customer), and **Monetary** (total sales) across customer lifestages.
+This table gives a quick summary of customer behavior by lifestage using three key metrics:
+
+- **Recency**: How many days since the last purchase  
+- **Frequency**: Average number of transactions per customer  
+- **Monetary**: Total chip sales from each group  
 
 | Lifestage                 | Avg. Recency (days) | Avg. Frequency | Total Sales ($) |
 |---------------------------|---------------------|----------------|-----------------|
@@ -113,6 +117,14 @@ This table summarizes average **Recency** (days since last transaction), **Frequ
 | YOUNG FAMILIES            | 181.59              | 4.75           | 316,160.10      |
 | NEW FAMILIES              | 179.88              | 2.71           | 50,433.45       |
 
+#### What This Tells Us
+- **Older Singles and Couples** spend the most on chips overall — even more than retirees and families. This suggests that older individuals might buy chips more often or in larger amounts, possibly for convenience or personal enjoyment.
+
+- **Families (both older and younger)** shop the most frequently. They come back more often than singles or couples, likely because chips are a regular household snack.
+
+- **New Families** stand out as an under-engaged group. They buy less often and spend less overall, which might mean they’re newer customers or just not as interested in chips. This could be a good group to target with promotions or tailored campaigns.
+
+- **Overall**, the data gives us a clearer picture of who the top chip buyers are — and where there might be room to grow. It highlights some interesting differences between life stages and shows how this kind of segmentation can help tailor marketing and inventory decisions.
 
 
 
