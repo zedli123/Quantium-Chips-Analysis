@@ -31,8 +31,8 @@ There are two datasets, **Transaction Data** and **Purchase Behaviour** Data for
 |Column             | Description                               |
 |-------------------|-------------------------------------------|
 |`LYLTY_CARD_NBR`   | Unique Loyalty Card Identifier **Integer**|
-|`LIFESTAGE`        | The Lifestage of Customers **STRING**     |
-|`PREMIUM_CUSTOMER` | The Types of Customers  **STRING**        |
+|`LIFESTAGE`        | The Lifestage of Customers **String**     |
+|`PREMIUM_CUSTOMER` | The Types of Customers  **String**        |
 
 ### 2.2 Outlier Removal
 To mitigate the impact of extreme values, we applied the **Interquartile Range (IQR) method** to detect and remove extreme outliers from our dataset. 
@@ -67,7 +67,7 @@ As shown in the left plot, **December had the highest total sales** of the year.
 
 The right plot reveals a **noticeable spike in sales leading up to Christmas**, followed by **no sales on Christmas Day**, likely due to store closures.
 
-I also examined the daily sales in **November** to explore whether there was a similar upward trend leading up to Thanksgiving. However, there appears to be **no noticeable spike in sales prior to the Thanksgiving like Christmas**.
+I also examined the daily sales in **November** to explore whether there was a similar upward trend leading up to Thanksgiving. However, there appears to be **no noticeable spike in sales prior to the Thanksgiving in November like Christmas**.
 
 <p align="center">
   <img src="https://github.com/zedli123/Quantium-Chips-Analysis/blob/main/Quantium/totalsalesbymonth.png?raw=true" width="250"/>
