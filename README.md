@@ -99,6 +99,20 @@ These three sizes alone make up over half of the total chip sales, indicating a 
   <img src="https://github.com/zedli123/Quantium-Chips-Analysis/blob/main/Quantium/totalsizebypacksize.png?raw=true" width="400"/>
 </p>
 
+## 4.Customer RFM Analysis
+
+This table summarizes average **Recency** (days since last transaction), **Frequency** (average number of transactions per customer), and **Monetary** (total sales) across customer lifestages.
+
+| Lifestage                 | Avg. Recency (days) | Avg. Frequency | Total Sales ($) |
+|---------------------------|---------------------|----------------|-----------------|
+| OLDER SINGLES/COUPLES     | 182.65              | 3.73           | 402,426.75      |
+| OLDER FAMILIES            | 182.02              | 4.97           | 352,467.20      |
+| RETIREES                  | 181.89              | 3.36           | 366,470.90      |
+| MIDAGE SINGLES/COUPLES    | 181.87              | 3.45           | 184,751.30      |
+| YOUNG SINGLES/COUPLES     | 181.86              | 2.52           | 260,405.30      |
+| YOUNG FAMILIES            | 181.59              | 4.75           | 316,160.10      |
+| NEW FAMILIES              | 179.88              | 2.71           | 50,433.45       |
+
 
 
 
