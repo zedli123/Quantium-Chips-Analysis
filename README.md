@@ -99,8 +99,8 @@ These three sizes alone make up over half of the total chip sales, indicating a 
   <img src="https://github.com/zedli123/Quantium-Chips-Analysis/blob/main/Quantium/totalsizebypacksize.png?raw=true" width="400"/>
 </p>
 
-## 4.Customer RFM Analysis
-
+## 4.Customer Analysis
+### 4.1 Overview of RFM Analysis
 This table gives a quick summary of customer behavior by lifestage using three key metrics:
 
 - **Recency**: How many days since the last purchase  
@@ -125,6 +125,13 @@ This table gives a quick summary of customer behavior by lifestage using three k
 - **New Families** stand out as an under-engaged group. They buy less often and spend less overall, which might mean they’re newer customers or just not as interested in chips. This could be a good group to target with promotions or tailored campaigns.
 
 - **Overall**, the data gives us a clearer picture of who the top chip buyers are — and where there might be room to grow. It highlights some interesting differences between life stages and shows how this kind of segmentation can help tailor marketing and inventory decisions.
+
+### 4.2 Customer Segmentation
+
+<p align="center">
+  <img src="https://github.com/zedli123/Quantium-Chips-Analysis/blob/main/Quantium/customerdisbysegment.png?raw=true" width="600"/>
+</p>
+
 
 
 
